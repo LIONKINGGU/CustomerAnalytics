@@ -30,7 +30,7 @@ Price Analysis:
 Calculated average prices per unit of chips for different customer segments.
 Conducted t-tests to compare average prices between various segments, identifying statistically significant differences.
 
-# Recommending Marketing Strategies:
+# Recommended Marketing Strategies:
 
 Targeted Promotions: Use insights from customer segments to design targeted marketing campaigns. For example, segments with higher average units per purchase could be offered bulk purchase discounts.
 Premium Segment Focus: Since there are significant differences in spending behavior between mainstream and premium/budget customers, tailor promotional strategies accordingly.
