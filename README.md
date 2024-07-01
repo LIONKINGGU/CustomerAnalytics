@@ -9,25 +9,18 @@ Transaction and Sales Analysis: Investigate transaction frequencies, total sales
 Price Analysis: Compare average prices per unit across different customer segments and conduct statistical tests to identify significant differences.
 
 # What Was Achieved
-Product Name Standardization:
-
-Cleaned product names by removing digits and special characters and correcting spellings using fuzzy matching techniques.
+Product Name Standardization: Cleaned product names by removing digits and special characters and correcting spellings using fuzzy matching techniques.
 Identified and removed irrelevant products (e.g., Salsa).
-Customer Segmentation:
 
-Grouped customers by lifestage and premium status, allowing for targeted analysis of customer behavior.
+Customer Segmentation: Grouped customers by lifestage and premium status, allowing for targeted analysis of customer behavior.
 
-Transaction Analysis:
-
-Calculated the number of unique dates and total transactions, providing a broad overview of the transaction data.
+Transaction Analysis: Calculated the number of unique dates and total transactions, providing a broad overview of the transaction data.
 Analyzed transaction counts over time, enabling the identification of trends and patterns.
-Sales Analysis:
 
-Visualized total sales and number of customers by segment using bar plots.
+Sales Analysis: Visualized total sales and number of customers by segment using bar plots.
 Calculated average units of chips bought per customer segment.
-Price Analysis:
 
-Calculated average prices per unit of chips for different customer segments.
+Price Analysis: Calculated average prices per unit of chips for different customer segments.
 Conducted t-tests to compare average prices between various segments, identifying statistically significant differences.
 
 # Recommended Marketing Strategies:
